@@ -1,0 +1,8 @@
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.ApplicationCore\bin\Debug\netstandard2.0\Confitec.Usuario.ApplicationCore.deps.json
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.ApplicationCore\bin\Debug\netstandard2.0\Confitec.Usuario.ApplicationCore.dll
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.ApplicationCore\bin\Debug\netstandard2.0\Confitec.Usuario.ApplicationCore.pdb
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.ApplicationCore\obj\Debug\netstandard2.0\Confitec.Usuario.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.ApplicationCore\obj\Debug\netstandard2.0\Confitec.Usuario.ApplicationCore.AssemblyInfo.cs
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.ApplicationCore\obj\Debug\netstandard2.0\Confitec.Usuario.ApplicationCore.dll
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.ApplicationCore\obj\Debug\netstandard2.0\Confitec.Usuario.ApplicationCore.pdb
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.ApplicationCore\obj\Debug\netstandard2.0\Confitec.Usuario.ApplicationCore.csprojAssemblyReference.cache

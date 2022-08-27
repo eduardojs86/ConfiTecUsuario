@@ -1,0 +1,11 @@
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.Infra.PersistenceAdapter\obj\Debug\netstandard2.0\Confitec.Usuario.Infra.PersistenceAdapter.csprojAssemblyReference.cache
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.Infra.PersistenceAdapter\obj\Debug\netstandard2.0\Confitec.Usuario.Infra.PersistenceAdapter.AssemblyInfoInputs.cache
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.Infra.PersistenceAdapter\obj\Debug\netstandard2.0\Confitec.Usuario.Infra.PersistenceAdapter.AssemblyInfo.cs
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.Infra.PersistenceAdapter\bin\Debug\netstandard2.0\Confitec.Usuario.Infra.PersistenceAdapter.deps.json
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.Infra.PersistenceAdapter\bin\Debug\netstandard2.0\Confitec.Usuario.Infra.PersistenceAdapter.dll
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.Infra.PersistenceAdapter\bin\Debug\netstandard2.0\Confitec.Usuario.Infra.PersistenceAdapter.pdb
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.Infra.PersistenceAdapter\bin\Debug\netstandard2.0\Confitec.Usuario.ApplicationCore.dll
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.Infra.PersistenceAdapter\bin\Debug\netstandard2.0\Confitec.Usuario.ApplicationCore.pdb
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.Infra.PersistenceAdapter\obj\Debug\netstandard2.0\Confitec.Usuario.Infra.PersistenceAdapter.csproj.CopyComplete
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.Infra.PersistenceAdapter\obj\Debug\netstandard2.0\Confitec.Usuario.Infra.PersistenceAdapter.dll
+C:\Users\eduardosilva.bhs\Desktop\Confitec\Confitec.Usuario.Infra.PersistenceAdapter\obj\Debug\netstandard2.0\Confitec.Usuario.Infra.PersistenceAdapter.pdb

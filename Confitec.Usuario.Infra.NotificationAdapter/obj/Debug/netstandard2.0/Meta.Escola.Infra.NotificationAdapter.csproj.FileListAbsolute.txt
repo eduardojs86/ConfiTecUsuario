@@ -1,0 +1,7 @@
+C:\Raro\Meta.Escola.Infra.NotificationAdapter\bin\Debug\netstandard2.0\Meta.Escola.Infra.NotificationAdapter.deps.json
+C:\Raro\Meta.Escola.Infra.NotificationAdapter\bin\Debug\netstandard2.0\Meta.Escola.Infra.NotificationAdapter.dll
+C:\Raro\Meta.Escola.Infra.NotificationAdapter\bin\Debug\netstandard2.0\Meta.Escola.Infra.NotificationAdapter.pdb
+C:\Raro\Meta.Escola.Infra.NotificationAdapter\obj\Debug\netstandard2.0\Meta.Escola.Infra.NotificationAdapter.AssemblyInfoInputs.cache
+C:\Raro\Meta.Escola.Infra.NotificationAdapter\obj\Debug\netstandard2.0\Meta.Escola.Infra.NotificationAdapter.AssemblyInfo.cs
+C:\Raro\Meta.Escola.Infra.NotificationAdapter\obj\Debug\netstandard2.0\Meta.Escola.Infra.NotificationAdapter.dll
+C:\Raro\Meta.Escola.Infra.NotificationAdapter\obj\Debug\netstandard2.0\Meta.Escola.Infra.NotificationAdapter.pdb
